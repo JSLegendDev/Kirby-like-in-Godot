@@ -108,6 +108,6 @@ animation = &"idle"
 
 [node name="InhalingEffect" type="AnimatedSprite2D" parent="."]
 visible = false
-position = Vector2(14, 1)
+position = Vector2(14, 0)
 sprite_frames = SubResource("SpriteFrames_pelac")
-frame_progress = 0.752043
+frame_progress = 0.0321742
